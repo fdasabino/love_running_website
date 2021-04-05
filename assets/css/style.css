@@ -179,3 +179,20 @@ hr {
 #times h2 {
   color: #fafafa;
 }
+footer {
+  height: 150px;
+}
+.social-networks {
+  text-align: center;
+}
+.social-networks > li {
+  display: inline;
+}
+.social-networks i {
+  font-size: 160%;
+  margin-top: 3%;
+  margin-left: 16.65%;
+  padding: 1.5%;
+  float: left;
+  color: #3a3a3a;
+}
