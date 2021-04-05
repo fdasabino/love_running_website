@@ -45,3 +45,10 @@ h2 {
 .active {
   border-bottom: 1px solid #3a3a3a;
 }
+#heroimg {
+  height: 600px;
+  width: 100%;
+  background-image: url(/assets/images/hero-image.webp);
+  background-repeat: no-repeat;
+  background-position: center center;
+}
