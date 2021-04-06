@@ -54,7 +54,7 @@ h2 {
   color: #fff;
 }
 #hero-image {
-  background-image: url(/assets/images/hero.JPG);
+  background-image: url(../images/hero.jpg);
   height: 600px;
   width: 100%;
   background-repeat: no-repeat;
@@ -140,7 +140,7 @@ hr {
   font-size: 280%;
 }
 #circle-container {
-  background-image: url(/assets/images/center.JPG);
+  background-image: url(../images/center.jpg);
   width: 300px;
   height: 300px;
   padding: 30px;
@@ -152,7 +152,7 @@ hr {
 }
 
 #times {
-  background-image: url(/assets/images/dublin.JPG);
+  background-image: url(../images/dublin.jpg);
   width: 100%;
   background-repeat: no-repeat;
   background-position: center center;
