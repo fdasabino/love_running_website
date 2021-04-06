@@ -40,10 +40,8 @@ h2 {
   text-decoration: none;
   color: inherit;
 }
-#menu:hover {
-  border-bottom: 1px solid #3a3a3a;
-}
-.active {
+
+#menu a:hover {
   border-bottom: 1px solid #3a3a3a;
 }
 #hero-outer {
