@@ -56,7 +56,7 @@ h2 {
 #hero-image {
   height: 600px;
   width: 100%;
-  background-image: url(/assets/images/hero-image.webp);
+  background-image: url(assets/images/hero-image.webp);
   background-repeat: no-repeat;
   background-position: center center;
   animation-name: hero-zoom;
@@ -150,14 +150,14 @@ hr {
   margin: 0 auto;
 }
 #circle-cover-bg {
-  background-image: url(/assets/images/ethos-center-image.jpg);
+  background-image: url(assets/images/ethos-center-image.jpg);
   height: 100%;
   border-radius: 50%;
   background-repeat: no-repeat;
   background-position: center center;
 }
 #times {
-  background-image: url(/assets/images/dublin-city.webp);
+  background-image: url(assets/images/dublin-city.webp);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
