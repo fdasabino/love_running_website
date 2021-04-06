@@ -237,6 +237,17 @@ footer {
   hr {
     display: none;
   }
+  #times > div {
+    width: 100%;
+    clear: both;
+    height: 150px;
+    padding: 0;
+  }
+  .social-networks {
+    display: inline;
+    width: 50%;
+    margin-left: 0 auto;
+  }
 }
 /* For medium screen sizes */
 @media screen and (max-width: 950px) {
