@@ -206,6 +206,7 @@ footer {
   width: 100%;
   overflow: hidden;
 }
+/* For tablet screen sizes */
 @media screen and (max-width: 1200px) {
   #club-ethos {
     width: 65%;
@@ -230,5 +231,15 @@ footer {
   }
   hr {
     display: none;
+  }
+}
+/* For medium screen sizes */
+@media screen and (max-width: 950px) {
+  #menu {
+    clear: left;
+    float: left;
+    margin-left: 30%;
+    margin-bottom: 20px;
+    line-height: 25px;
   }
 }
