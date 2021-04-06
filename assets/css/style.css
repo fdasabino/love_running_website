@@ -54,7 +54,7 @@ h2 {
   color: #fff;
 }
 #hero-image {
-  background-image: url(../images/hero.jpg);
+  background-image: url(../images/hero.webp);
   height: 600px;
   width: 100%;
   background-repeat: no-repeat;
@@ -152,7 +152,7 @@ hr {
 }
 
 #times {
-  background-image: url(../images/dublin.jpg);
+  background-image: url(../images/dublin.webp);
   width: 100%;
   background-repeat: no-repeat;
   background-position: center center;
